@@ -6,6 +6,9 @@ public class Loader {
         dog1.feed(200.0);
         dog1.woof();
         System.out.printf("Вес кошки N1 после кормежки: %.2f %n", dog1.getWeight());
+
+
+
     }
 
     }
